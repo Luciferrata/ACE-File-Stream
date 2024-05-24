@@ -23,7 +23,7 @@ broadcast - Broadcast message to all users
 ```
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheFlashSpeedster/ACE-File-Stream)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Luciferrata/ACE-File-Stream)
 
 ## Deploy on VPS
 </summary>
